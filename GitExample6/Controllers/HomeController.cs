@@ -33,5 +33,10 @@ namespace GitExample6.Controllers
             return View();
         }
 
+        public IActionResult Page2()
+        {
+            return View();
+        }
+
     }
 }
